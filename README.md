@@ -13,7 +13,7 @@ _This is a program that, when executed at working hours, from 8am - 16pm , faceb
 
 * _Clone this repository_
 * _Using the terminal, change directory to the folder_
-* _Run python3 website_blocker.py _
+* Run python3 website_blocker.py 
 
 
 
