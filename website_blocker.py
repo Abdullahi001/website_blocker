@@ -2,7 +2,7 @@ import time
 from datetime import datetime as dt
 
 hosts_path=r"/etc/hosts"
-# hosts_path=r"C:\windows\system32\drivers\etc\hosts"
+# hosts_path=r"C:\windows\system32\drivers\etc\hosts"  || windows users
 # hosts_path="hosts"
 redirect="127.0.0.1"
 website_list=['www.facebook.com','facebook.com']
